@@ -1,5 +1,5 @@
-# Power-BI-Projects
-This repository contains files/codes for my Data Visualization projects and reports created using Power BI.
+# Report using Power-BI 
+This repository contains file for my Data Visualization project and reports created using Power BI.
 
 ### Files
-Each folder contains the dataset(in xlsx or csv format), the dashboard (in pbix), and the dashboard converted into pdf format.
+It contains the dataset(in xlsx or csv format), the dashboard (in pbix), and the dashboard converted into pdf format.
